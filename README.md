@@ -1,5 +1,5 @@
 # 💫 About Me:
-Java Devolopment<br>Full Stack Devolopment<br>Computer Science Student<br>Web Devolopment<br>Working on Java Desktop Application<br>Seeking an opportunity in software development 
+Java Devolopment<br>Full Stack Devolopment<br>Computer Science Student<br>Web Devolopment<br>Working on Java Desktop Application<br>Seeking an opportunity in software development .
 
 
 ## 🌐 Socials:
